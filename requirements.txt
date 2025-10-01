@@ -2,8 +2,5 @@ aiogram==3.3.0
 aiohttp==3.9.3
 sqlalchemy==2.0.27
 psycopg2-binary==2.9.9
---index-url https://download.pytorch.org/whl/cpu
-torch
-torchaudio
 python-decouple==3.8
 cryptography==42.0.5
